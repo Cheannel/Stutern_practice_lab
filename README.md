@@ -1,2 +1,1 @@
-# Stutern_practice_lab
-A repository about git
+A lab practice based on the use of Git and Github
